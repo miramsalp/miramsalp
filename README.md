@@ -1,3 +1,3 @@
-<p align="left">👋 Hi, I’m @miramsalp<br>🌱 I’m currently learning Go and ML<br>🐔 I really love eating KFC</p>
-
-###
+👋 Hi, I’m @miramsalp
+🌱 I’m currently learning Go and ML
+🐔 I really love eating KFC
